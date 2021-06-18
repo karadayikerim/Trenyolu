@@ -1,0 +1,66 @@
+C:\Users\kerim\source\repos\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.Form1.resources
+C:\Users\kerim\source\repos\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.Properties.Resources.resources
+C:\Users\kerim\source\repos\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.csproj.GenerateResource.cache
+C:\Users\kerim\source\repos\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\AlisverisUygulamasi.exe.config
+C:\Users\kerim\source\repos\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\AlisverisUygulamasi.exe
+C:\Users\kerim\source\repos\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\AlisverisUygulamasi.pdb
+C:\Users\kerim\source\repos\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.exe
+C:\Users\kerim\source\repos\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.pdb
+C:\Users\kerim\source\repos\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.csprojAssemblyReference.cache
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\AlisverisUygulamasi.exe.config
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\AlisverisUygulamasi.exe
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\AlisverisUygulamasi.pdb
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\EntityFramework.dll
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\System.Data.SQLite.dll
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\EntityFramework.xml
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\System.Data.SQLite.xml
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.Login.resources
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.MainPage.resources
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.Register.resources
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.Properties.Resources.resources
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.csproj.GenerateResource.cache
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.csproj.CopyComplete
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.exe
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.pdb
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.csprojAssemblyReference.cache
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.AdminPage.resources
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.ProductsPanel.resources
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.AddProduct.resources
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\x86\sqlite3.dll
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\x64\sqlite3.dll
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.EditProduct.resources
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.ProductPage.resources
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.ShoppingCart.resources
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.LoginAdmin.resources
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.ProfilePage.resources
+C:\Users\kerim\OneDrive - gazi.edu.tr\Dersler\BM102\Proje\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.AdminSiparisDetay.resources
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\System.Data.SQLite.dll
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\System.Data.SQLite.xml
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.csprojAssemblyReference.cache
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.AddProduct.resources
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.AdminPage.resources
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.AdminSiparisDetay.resources
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.EditProduct.resources
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.Login.resources
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.LoginAdmin.resources
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.MainPage.resources
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.ProductPage.resources
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.ProfilePage.resources
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.Register.resources
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.ShoppingCart.resources
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.csproj.GenerateResource.cache
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.csproj.CopyComplete
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\AlisverisUygulamasi.SearchPage.resources
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\Trenyolu.exe.config
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\Trenyolu.exe
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\bin\Debug\Trenyolu.pdb
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\Trenyolu.Properties.Resources.resources
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\Trenyolu.exe
+C:\Users\kerim\Desktop\AlisverisUygulamasi\AlisverisUygulamasi\obj\Debug\Trenyolu.pdb
