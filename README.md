@@ -1,4 +1,5 @@
-Shopping Application
+Trenyolu Shopping Application
+
 This project is a shopping application developed using C# and SQLite. It allows users to browse products, add them to the cart.
 
 Features
